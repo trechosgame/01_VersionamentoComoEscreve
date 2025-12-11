@@ -1,5 +1,6 @@
 # 01_VersionamentoComoEscreve
-Versionamento jogo estilo quiz, com imagens, 1º Versionamento, foram adicionadas imagens, na pasta Assets -> Scenes.
+
+Como trocar o campo Pergunta -> PERGUNTA (Text), por imagens ???
 
 PARABÉNIS, RAINHA!!!
 Seu quiz já está lindo, profissional, com 4 respostas, contador, tudo funcionando!
